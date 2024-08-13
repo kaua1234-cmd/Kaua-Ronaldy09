@@ -1,5 +1,5 @@
 # Kaua-Ronaldy09
-Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil
 Meu nome é Kauã Ronaldy
 
 Estou estudando na Alura
