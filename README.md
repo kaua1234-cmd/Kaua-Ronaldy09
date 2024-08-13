@@ -1,6 +1,6 @@
 # Kaua-Ronaldy09
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é Kauã Ronaldy
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
